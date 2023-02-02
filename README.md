@@ -1,5 +1,6 @@
 # PowerBI
-My Power BI reports
+## My Power BI reports
+The next Power BI insutruments are used: transforming data in Power Query, data modelling (creating relationships between different tables), creating new measures, using slicers, filters, publishing report to web
 
 1. [Global Sales Report](https://app.powerbi.com/view?r=eyJrIjoiZGE3ZDRiNjktODcwZS00ODVhLTkxMGEtYjgxNGMzODAyNDgwIiwidCI6ImMxMWY2MWMxLWZlODMtNDc4OS1hMDdkLTM5MjJmNDFjOGY5MiJ9)
 
